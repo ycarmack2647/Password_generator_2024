@@ -11,7 +11,7 @@ This Password Generator is a simple Python script that generates a secure passwo
 ## How to Use
 1. Clone this repository to your local machine using:
    ```bash
-   git clone 
+   git clone git@github.com:ycarmack2647/Password_generator_2024.git
 
     Navigate to the project directory:
 
